@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Blaine Curren</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🔭 I’m currently working on **Estate Evalu8**
-
-- 📫 How to reach me **blaine.curren@gmail.com**
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
