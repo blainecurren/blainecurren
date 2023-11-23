@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blaine Curren</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">"As a seasoned Full Stack Web Developer, I bring a robust skill set and hands-on experience in designing and implementing scalable web applications. Proficient in both front-end and back-end technologies, I excel in creating responsive, user-centric interfaces and ensuring seamless functionality. With a keen eye for detail and a passion for innovation, I am eager to contribute my expertise to a dynamic team, leveraging my programming proficiency and problem-solving skills to drive impactful results in a collaborative work environment."</h3>
 
 <p align="center">
   <a href="" target="_blank">
