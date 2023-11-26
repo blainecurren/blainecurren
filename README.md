@@ -15,7 +15,7 @@
   
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
+      <h3 align="center">Clima View</h3>
         <br />
       <a target="_blank" href="">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Project Tech</strong> - Project Info</p>
+        <p><strong>JavaScript, HTML5, & CSS</strong> - "Get real-time updates on temperature, precipitation, and wind conditions with ClimaView, the intuitive weather dashboard. Plan your day confidently with accurate forecasts at your fingertips."</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Project Name</h3>
