@@ -15,7 +15,7 @@
   
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Clima View</h3>
+      <h3 align="center">ClimaView</h3>
         <br />
       <a target="_blank" href="">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
