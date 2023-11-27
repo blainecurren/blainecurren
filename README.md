@@ -54,7 +54,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
+      <h3 align="center">BlaineCurren.com</h3>
       <br />
         <a target="_blank" href="">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
