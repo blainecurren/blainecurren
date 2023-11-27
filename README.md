@@ -2,7 +2,7 @@
 <h3 align="center">"A Full Stack Web Developer, bringing a robust skill set and hands-on experience in designing and implementing scalable web applications. With a keen eye for detail and a passion for innovation, I am eager to contribute my expertise to a dynamic team.</h3>
 
 <p align="center">
-  <a href="https://beamish-pastelito-94935e.netlify.app" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="" target="_blank">
