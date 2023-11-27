@@ -18,7 +18,7 @@
       <h3 align="center">ClimaView</h3>
         <br />
       <a target="_blank" href="">
-            <img src="images/weatherDashboard" width="100%"  alt="ClimaView"/>
+            <img src="images/weatherDashboard.png" width="100%"  alt="ClimaView"/>
         </a>
         <br />
         <p align="center">
