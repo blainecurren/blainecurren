@@ -33,7 +33,7 @@
         <p><strong>JavaScript, HTML5, & Bootstrap</strong> - Get real-time updates on temperature, precipitation, and wind conditions with ClimaView, the intuitive weather dashboard.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
+      <h3 align="center">Estate Evalu8</h3>
         <br />
       <a target="_blank" href="">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
