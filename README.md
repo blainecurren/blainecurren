@@ -71,7 +71,7 @@
         <p><strong>Javascript, CSS, Sass, HTML, React</strong> - Portfolio site with links to my projects</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
+      <h3 align="center">BrainStormer</h3>
         <br />
         <a target="_blank" href="">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
