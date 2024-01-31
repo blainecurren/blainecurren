@@ -74,7 +74,7 @@
       <h3 align="center">BrainStormer</h3>
         <br />
         <a target="_blank" href="">
-          <img src="images/brainStormer" width="100%" alt="Matching Cards"/>
+          <img src="images/brainStormer" width="100%" alt="BrainStormer"/>
         </a>
         <br />
         <p align="center">
