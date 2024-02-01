@@ -56,12 +56,12 @@
     <td width="50%" valign="top">
       <h3 align="center">blainecurren.com</h3>
       <br />
-        <a target="_blank" href="https://github.com/blainecurren/portfolio">
+        <a target="_blank" href="">
           <img src="images/portfolio.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/blainecurren/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://beamish-pastelito-94935e.netlify.app" target="_blank">
