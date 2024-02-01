@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blaine Curren</h1>
+<h1 align="center">Hi 👋🏽, I'm Blaine Curren</h1>
 <h3 align="center">"A Full Stack Web Developer, bringing a robust skill set and hands-on experience in designing and implementing scalable web applications. With a keen eye for detail and a passion for innovation, I am eager to contribute my expertise to a dynamic team.</h3>
 
 <p align="center">
